@@ -16,5 +16,6 @@ class DistributionCenter {
 
         DistributionCenter(int id, std::string name, std::string city, int capacity, int dailyPackages, int employees);
     
+        
     };
 #endif // DISTRIBUTIONCENTER_H
